@@ -1,6 +1,6 @@
 Here i will show u how to install RoS-1 on ubuntu 20.04
 
-Step1: you need to download VirtualBox you can press the link: https://www.virtualbox.org/wiki/Downloads![image](https://github.com/Sultan-Alghamdi94/Install-ros-on-ubuntu20.04/assets/174812257/74b2f777-d4cd-407b-9f7b-53cb55af3dbe)
+Step1: you need to download VirtualBox
 
 Step 2: now you need to download ubuntu 20.04
 
